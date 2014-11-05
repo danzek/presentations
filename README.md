@@ -1,4 +1,4 @@
 presentations
 =============
 
-Presentations / guest lectures that I've given
+These are presentations / guest lectures that I've given, organized by topic.
