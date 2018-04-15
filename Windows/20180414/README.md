@@ -12,6 +12,6 @@ As incident responders / reverse engineers, we often learn new things about how 
 ## Links to presentation materials
 
  - [Recorded talk (BSides Iowa)](#) &mdash; coming soon!
- - [View original slides on Prezi](https://prezi.com/view/WcB25JR7W7TeEh6Yvue7/) ([PDF version])(Bits_and_pieces.pdf)
+ - [View original slides on Prezi](https://prezi.com/view/WcB25JR7W7TeEh6Yvue7/) [[PDF version]](Bits_and_pieces.pdf)
  - [Proof-of-concept code (C++)](BitsPoC.cpp)
 
