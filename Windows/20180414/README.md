@@ -9,10 +9,12 @@ As incident responders / reverse engineers, we often learn new things about how 
  - [Recorded talk (BSides Iowa)](https://youtu.be/8yFj35x0WFQ)
  - [View original slides on Prezi](https://prezi.com/view/WcB25JR7W7TeEh6Yvue7/) [[PDF version]](Bits_and_pieces.pdf)
  - [Proof-of-concept code (C++)](BitsPoC.cpp)
+ - [Slides for EvolveSec Meetup](https://prezi.com/view/FhUhEgGP4CgOduNC5SAd/)
 
 ## Talk given on the following occasions
 
-Ilya Kobzar and I created this talk for BSides Iowa 2018. We gave this talk on the following occasions:
+Ilya Kobzar and I created this talk for BSides Iowa 2018. We or I gave this talk on the following occasions:
 
  - Thursday, April 12, 2018 at the Illinois Institute of Technology (IIT) Rice campus in Wheaton, IL (for the Midwest Chapter meeting of the HTCIA and ForenSecure conference)
  - Saturday, April 14, 2018 at BSides Iowa at Grand View University in Des Moines, Iowa
+ - Tuesday, August 28, 2018 at the EvolveSec Meetup in Chicago, IL
