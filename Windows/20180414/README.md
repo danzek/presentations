@@ -16,5 +16,6 @@ As incident responders / reverse engineers, we often learn new things about how 
 Ilya Kobzar and I created this talk for BSides Iowa 2018. We or I gave this talk on the following occasions:
 
  - Thursday, April 12, 2018 at the Illinois Institute of Technology (IIT) Rice campus in Wheaton, IL (for the Midwest Chapter meeting of the HTCIA and ForenSecure conference)
- - Saturday, April 14, 2018 at BSides Iowa at Grand View University in Des Moines, Iowa
+ - Saturday, April 14, 2018 at BSides Iowa at Grand View University in Des Moines, IA
  - Tuesday, August 28, 2018 at the EvolveSec Meetup in Chicago, IL
+ - Friday/Saturday, October 12-13, 2018 at HackUMass at University of Massachusetts in Amherst, MA
